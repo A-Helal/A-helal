@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&multiline=true&&color=D8008F&vCenter=true&width=440&height=70&lines=Flutter+Developer;C%2B%2B+Enthusiast;Firebase+%26+Backend+Explorer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&multiline=true&&color=D8008F&vCenter=true&width=440&height=70&lines=Flutter+Developer;JAVA+Enthusiast;Firebase+%26+Backend+Explorer" alt="Typing SVG">
 </div>
 
 <br clear="both">
